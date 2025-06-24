@@ -80,15 +80,6 @@ coffee-machine/
 - **State Management**: Resource tracking and money collection
 - **Method Organization**: Logical grouping of functionality
 
-## 🚀 Future Enhancements
-
-- [ ] Add unit tests
-- [ ] Implement data persistence (save/load orders)
-- [ ] Add more drink options
-- [ ] GUI interface using tkinter
-- [ ] Multiple payment methods
-- [ ] Inventory alerts and restocking
-
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -105,7 +96,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 **Jaweria Fayyaz**
 - GitHub: [@jaweriafayyaz](https://github.com/jaweriafayyaz)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/jaweria-fayyaz/)
+- LinkedIn: [Jaweria Fayyaz](https://www.linkedin.com/in/jaweria-fayyaz/)
 
 ## 🎓 Academic Project
 
